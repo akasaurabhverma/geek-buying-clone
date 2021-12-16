@@ -5,11 +5,27 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>geekbuying</title>
+    <link rel="stylesheet" href="../styles/nav-bar.css">
+    <style>
+        body {
+            width: 1200px;
+            margin: auto;
+        }
+    </style>
 </head>
 
 <body>
+    <div id="nav-bar-container"></div>
 
+    <script type="module">
+        import navBar from "/components/navbar.js";
+        const navbar = document.getElementById("nav-bar-container");
+        navbar.innerHTML = navBar();
+        if (JSON.parse(localStorage.getItem("isLoggedIn"))) {
+            document.getElementById("profile").innerText = JSON.parse(localStorage.getItem("person")).name.split(' ')[0];
+        }
+    </script>
 </body>
 
 </html>

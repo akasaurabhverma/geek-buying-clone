@@ -1,0 +1,50 @@
+.nav-bar {
+  margin: 0 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
+
+#logo-container {
+  width: 200px;
+  display: flex;
+  align-items: center;
+}
+
+#logo-container img {
+  width: 100%;
+  height: 35px;
+}
+
+.nav-bar > div {
+  display: flex;
+  align-items: baseline;
+}
+
+.nav-bar > div > ul {
+  display: flex;
+  list-style-type: none;
+}
+
+.left > div > input,
+.nav-bar > div > ul > li {
+  margin: 0.3rem;
+  padding: 0.25rem;
+  border: 2px solid black;
+  box-shadow: 1px 2px 2px 2px lightsteelblue;
+}
+
+.left {
+  display: flex;
+}
+
+.left div {
+  margin: 0 1rem;
+  padding: 1rem;
+}
+
+.left > div > input {
+  align-self: baseline;
+  width: 300px;
+  margin-left: 10em;
+}
