@@ -59,13 +59,23 @@
       "poster": "https://img.gkbcdn.com/p/2020-07-29/JIMMY-JV85-Pro-Wireless-Vacuum-Cleaner-Purple-425873-4._w500_p1_.jpg",
       "description": "200AW Ultra Strong Suction Power  Driven by Jimmy’s highly efficient 550W brushless digital motor, JV85 Pro is capable of providing a suction power of 200AW, a 70% increase from the previous version.  Up to 70 Mins of Working Time  8-piece Removable Lithium Battery.  Working Time with the Electric Head: 13/25/55 Mins  Working Time without Electric Head: 15/30/70 Mins",
       "id": 6
+    },
+    {
+      "itemCode": "1343215",
+      "price": "37299",
+      "name": "Room Heater",
+      "longTitle": "Hubsan Zino Mini SE GPS 6KM RC Drone with 4K 30fps Camera 3-axis Gimbal 45mins Flight Time AI Tracking - One Battery",
+      "brand": "Sun Bath",
+      "poster": "https://img.gkbcdn.com/p/2021-08-23/Midea-M7-Pro-Robot-Vacuum-Cleaner-471160-0._w500_p1_.jpg",
+      "description": "249gm Lightweight & Foldable Design  1/2.6inch CMOS 4K 12M  1080P 30fps Video Transmission  Hubsan Syncleas 2.0 1080P/30fps 2 Mbps 6 KM  Up to 45 Minutes of Flight Time  6KM Remote Control Distance  Optical-flow night light  ATVT 3.0 Al Tracking Mode",
+      "id": 7
     }
   ],
-  "carousel":[
-      "https://img.gkbcdn.com/s3/bn/2112/1090x422-61a8a1622b40c91e84983197.jpg",
-      "https://img.gkbcdn.com/s3/bn/2112/1090x422-61b16acc2b40c919045f7b51.jpg",
-      "https://img.gkbcdn.com/s3/bn/2112/1090x422-61b9a32d2b40c914d0d322af.jpg",
-      "https://img.gkbcdn.com/s3/bn/2112/1090x422-61af159a2b40c92da05c5b1b.jpg",
-      "https://img.gkbcdn.com/s3/bn/2112/1090x422-61b8959a2b40c90830cd284f.jpg"
+  "carousel": [
+    "https://img.gkbcdn.com/s3/bn/2112/1090x422-61a8a1622b40c91e84983197.jpg",
+    "https://img.gkbcdn.com/s3/bn/2112/1090x422-61b16acc2b40c919045f7b51.jpg",
+    "https://img.gkbcdn.com/s3/bn/2112/1090x422-61b9a32d2b40c914d0d322af.jpg",
+    "https://img.gkbcdn.com/s3/bn/2112/1090x422-61af159a2b40c92da05c5b1b.jpg",
+    "https://img.gkbcdn.com/s3/bn/2112/1090x422-61b8959a2b40c90830cd284f.jpg"
   ]
 }
