@@ -1,0 +1,71 @@
+{
+  "products": [
+    {
+      "itemCode": "416514",
+      "price": "49116",
+      "name": "SYL-08",
+      "longTitle": "SYL-08 V3 Version Electric Off Road Skateboard With Remote Control 1450W Motor up to 38km/h 10Ah Battery Maple Plank Max load 130kg - Black",
+      "brand": "SYL",
+      "poster": "https://img.gkbcdn.com/p/2020-08-27/syl-08-electric-skateboard-off-road-with-remote-control-black-1598514028513._w500_p1_.jpg",
+      "description": "Electric skateboard, a new choice of commute, casual going out and entertainment.  Powerful motor and large capacity battery ensure your trip perfect.  remote control could help to control the speed based on you want  Max speed could be 40km/h",
+      "id": 1
+    },
+    {
+      "itemCode": "470691",
+      "price": "35786",
+      "name": "Husban Zino Mini SE",
+      "longTitle": "Hubsan Zino Mini SE GPS 6KM RC Drone with 4K 30fps Camera 3-axis Gimbal 45mins Flight Time AI Tracking - One Battery",
+      "brand": "Husban",
+      "poster": "https://img.gkbcdn.com/p/2021-08-19/Hubsan-Zino-Mini-SE-4K-GPS-Drone-One-Battery-470691-2._w500_p1_.jpg",
+      "description": "249gm Lightweight & Foldable Design  1/2.6inch CMOS 4K 12M  1080P 30fps Video Transmission  Hubsan Syncleas 2.0 1080P/30fps 2 Mbps 6 KM  Up to 45 Minutes of Flight Time  6KM Remote Control Distance  Optical-flow night light  ATVT 3.0 Al Tracking Mode",
+      "id": 2
+    },
+    {
+      "itemCode": "461407",
+      "price": "106029",
+      "name": "One Netbook Game Console",
+      "longTitle": "One Netbook ONEXPLAYER Game Console PC 8.4 Inch Pocket Computer i7-1165G7 16G RAM 1TB SSD IPS Touch Screen Windows 10 US Plug",
+      "brand": "One Netbook",
+      "poster": "https://img.gkbcdn.com/p/2021-07-20/b5cf7140c9664ffeb3362454c89f8a58-461407-1._w500_p1_.jpg",
+      "description": "CPU: Intel® Core™ i7-1165G7 Processor  The extremely capable processor allows users of all nature to be it the gamers or designers, to use it to its full potential.  GPU: Intel® Iris® Xe Graphics  On-processor graphics with shared video memory provide high image quality with basic photo editing and casual gaming.  16GB + 1TB SSD  16GB DDR4 offers a fast read and writes speed which allows games and programs to run smoothly. 1TB is sufficient for the average user's data storage.  8.4\" 2.5K 100% sRGB IPS Screen with high 2560*1600 Resolution   ONEXPLAYER utilizes the 2.5K display, which offers vivid experiences for watching videos and browsing the Web.  15300mAh Large Battery  Use this laptop all day and night on one charge.  Support WiFi 6  It was equipped with Intel WiFi 6 network module, support WiFi 6 802.11ax protocol.  Windows 10 OS  Equipped with the latest genuine Windows 10 operating system with up to date software updates.",
+      "id": 3
+    },
+    {
+      "itemCode": "472808",
+      "price": "169180",
+      "name": "BLUETTI Power Station",
+      "longTitle": "BLUETTI EB240 Portable Power Station 2400 Wh Lithium Battery Solar Generator with 1000 W Inverter AC/DC/USB Socket Mobile Power Supply Power Generator for Travel Camping Caravan",
+      "brand": "BLUETTI",
+      "poster": "https://img.gkbcdn.com/p/2021-09-21/BLUETTI-Power-Station-2400Wh-1000W-Inverter-BLUETTI-EB240-Portable-Sol-472808-0._w500_p1_.jpg",
+      "description": "LCD Screen-Easy to Read/Monitor  The LCD Screen can display the charging status, the remaining power, the input/output power, and If the product malfunctions, error codes will be also displayed on screen.  Pure sine wave for AC outputs.  Constant regulated DC12V.  Solar charge mode:MPPT  Intelligent Cooling Control  Solid Aluminum alloy shell  Huge Capacity 2400Wh with 1000W AC Power",
+      "id": 4
+    },
+    {
+      "itemCode": "471160",
+      "price": "35862",
+      "name": "Midea M7 Pro",
+      "longTitle": "Midea M7 Pro Robot Vacuum Cleaner 4000Pa Strong Suction Vibrating Mopping LDS Navigation 5200mAh Battery 150Mins Runtime APP Intelligent Control - Black",
+      "brand": "Midea",
+      "poster": "https://img.gkbcdn.com/p/2021-08-23/Midea-M7-Pro-Robot-Vacuum-Cleaner-471160-0._w500_p1_.jpg",
+      "description": "High-frequency vibration mopping the floor, powerfully clean dirt. 500 high-frequency vibrations per minute to wipe the floor.  4000PA strong suction, Use Nidec BLDC advanced motor.  Bilateral brush design, It is easier to gather dust.  The new LDS laser high flight system, Scan the room, build the room ground, Intelligently plan the best path.  APP intelligent control, WIFI remote control.  Automatically identify steps, 3000+ escape solutions, automatically identify obstacles.  Long working hours for 150 minutes, 5200mAh large capacity battery.  Three-layer dust filter, Nylon mesh + sponge + HEPA filter.",
+      "id": 5
+    },
+    {
+      "itemCode": "425894",
+      "price": "31184",
+      "name": "JIMMMY JV85",
+      "longTitle": "JIMMY JV85 Pro Cordless Handheld Flexible Vacuum Cleaner with 200AW Powerful Suction, 550W Digital Brushless Motor, 70 Minutes Run Time, Ultra-low noise for cleaning floors, furniture by Xiaomi",
+      "brand": "JIMMY",
+      "poster": "https://img.gkbcdn.com/p/2020-07-29/JIMMY-JV85-Pro-Wireless-Vacuum-Cleaner-Purple-425873-4._w500_p1_.jpg",
+      "description": "200AW Ultra Strong Suction Power  Driven by Jimmy’s highly efficient 550W brushless digital motor, JV85 Pro is capable of providing a suction power of 200AW, a 70% increase from the previous version.  Up to 70 Mins of Working Time  8-piece Removable Lithium Battery.  Working Time with the Electric Head: 13/25/55 Mins  Working Time without Electric Head: 15/30/70 Mins",
+      "id": 6
+    }
+  ],
+  "carousel":[
+      "https://img.gkbcdn.com/s3/bn/2112/1090x422-61a8a1622b40c91e84983197.jpg",
+      "https://img.gkbcdn.com/s3/bn/2112/1090x422-61b16acc2b40c919045f7b51.jpg",
+      "https://img.gkbcdn.com/s3/bn/2112/1090x422-61b9a32d2b40c914d0d322af.jpg",
+      "https://img.gkbcdn.com/s3/bn/2112/1090x422-61af159a2b40c92da05c5b1b.jpg",
+      "https://img.gkbcdn.com/s3/bn/2112/1090x422-61b8959a2b40c90830cd284f.jpg"
+  ]
+}

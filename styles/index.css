@@ -1,0 +1,13 @@
+#landing-page {
+  display: grid;
+  grid-template-columns: repeat(8, 1fr);
+  grid-template-areas: "a a a a b b" "a a a a c c" "d d e e f f";
+}
+
+#carousel {
+  grid-area: "d";
+}
+
+#carousel img {
+  width: 90%;
+}
