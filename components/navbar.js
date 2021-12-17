@@ -11,7 +11,7 @@ function navBar() {
     <div>
         <ul>
             <li>
-                <div id="profile">SignIn</div>
+                <div id="profile"><a href="/views/signin.html">SignIn</a></div>
             </li>
             <li>
                 <div id="wishlist">WishList</div>
